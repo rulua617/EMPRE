@@ -2,7 +2,7 @@
   "name": "proyecto-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://rulua617.github.io/EMPRE",
+  "homepage": "https://rulua617.github.io/EMPRE/build",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
